@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on DevOps.
 - 🌱 I’m currently learning Java, Ansible, Docker and Terraform.
-- 💬 Contact me: https://www.linkedin.com/in/renata-souza-melo-44a548101
+
 
 <div align="center">
   <a href="https://github.com/renataMelo88">
@@ -34,4 +34,3 @@
  
  
 </div>
-
