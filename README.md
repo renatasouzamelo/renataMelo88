@@ -1,10 +1,5 @@
 ## Hello! i'm Renata Melo.
 
-
-- 🔭 I’m currently working on DevOps.
-- 🌱 I’m currently learning Java, Ansible, Docker and Terraform.
-
-
 <div align="center">
   <a href="https://github.com/renataMelo88">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renataMelo88&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
