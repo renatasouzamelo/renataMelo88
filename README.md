@@ -23,7 +23,7 @@ Hello! i'm Renata Melo.
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="right"   height="150" style="border-radius:50px;"            src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
   </div>
-  <br>
+  
   
   <div> 
   <a href="https://www.linkedin.com/in/renata-souza-melo-44a548101" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
