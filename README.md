@@ -7,7 +7,7 @@
    <a href="https://github.com/renataMelo88">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renataMelo88&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renataMelo88&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
 
   ![GitHub Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
   ![GitHub Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -22,13 +22,14 @@
   ![GitHub Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=Ansible&logoColor=white)
   ![GitHub Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
   ![GitHub Elastic](https://img.shields.io/badge/Elastic-FFFFFF?style=for-the-badge&logo=elastic&logoColor=black)
+
  
-<div> 
-#
+
+
    <a href="https://www.linkedin.com/in/renata-souza-melo-44a548101" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:renata.melo871@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="blank">   </a>
   <a href="https://twitter.com/RenataMelo878" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="blank"></a>
  
  ![Snake animation](https://github.com/renataMelo88/renataMelo88/blob/output/github-contribution-grid-snake.svg)  
  
-</div>
+
